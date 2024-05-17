@@ -1,7 +1,8 @@
 
-[![wakatime]([https://wakatime.com/badge/user/umix.svg](https://wakatime.com/badge/user/c420e5cb-2563-414d-94e2-415abca72637.svg))](https://wakatime.com/@lumix)
+[![wakatime](https://wakatime.com/badge/user/c420e5cb-2563-414d-94e2-415abca72637.svg)](https://wakatime.com/@lumix)
 
 hey, i'm marten, a 22 year old software developer from germany.
+
 i am currently working on [@ProfitPath](https://www.profitpath.app/). feel free to check out :)
 
 <!--
