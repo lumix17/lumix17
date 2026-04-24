@@ -1,9 +1,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/c420e5cb-2563-414d-94e2-415abca72637.svg)](https://wakatime.com/@lumix)
 
-hey, i'm marten, a 22 year old software developer from germany.
+hey, i'm marten, a 24 year old software developer from germany.
 
-i am currently working on [@ProfitPath](https://www.profitpath.app/). feel free to check out :)
+i am currently working on [@ProfitPath](https://www.profitpath.com/). feel free to check out :)
 
 <!--
 **lumix17/lumix17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
